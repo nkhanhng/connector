@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import {connect} from 'react-redux';
-import {withRouter} from 'react-router-dom';
+// import {withRouter} from 'react-router-dom';
 import Moment from 'react-moment';
 import { deleteEducation } from '../../actions/profileAction'
 
